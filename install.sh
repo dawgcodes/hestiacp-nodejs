@@ -37,3 +37,5 @@ echo -e "${START} Templates and QuickInstall App Permissions changed ✅"
 sudo cp bin/v-add-pm2-app /usr/local/hestia/bin
 sudo chmod 755 /usr/local/hestia/bin/v-add-pm2-app
 echo -e "${START} Add pm2 manager to /usr/local/hestia/bin ✅"
+
+echo -e "${GREEN}This script was created by dawgcodes.${ENDCOLOR}"
